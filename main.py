@@ -24,4 +24,5 @@ kate = Human('Kate')
 car = Auto("Mercedes")
 
 car.add_passanger(nick)
+
 car.print_passangers_names()
